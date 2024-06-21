@@ -8,6 +8,7 @@ The dataset used in this project consists of Snappfood customer comments for eac
 The pre-trained ParsBERT model has been fine-tuned on the Snappfood customer comments dataset using the PyTorch framework. The fine-tuned model has achieved an F1-score of 92 on the evaluation set. The model has been trained to classify customer comments into three classes: Positive, Negative, and Neutral.
 
 ## Requirements
+
 Python 3.6+
 PyTorch 1.7+
 Transformers 4.3+
