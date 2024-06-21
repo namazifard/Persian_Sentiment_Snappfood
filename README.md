@@ -10,5 +10,7 @@ The pre-trained ParsBERT model has been fine-tuned on the Snappfood customer com
 ## Requirements
 
 Python 3.6+
+
 PyTorch 1.7+
+
 Transformers 4.3+
