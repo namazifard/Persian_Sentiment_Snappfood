@@ -2,8 +2,7 @@
 This project is about sentiment analysis of Snappfood customer comments using a pre-trained ParsBERT model that has been fine-tuned on Snappfood customer comments for each order. The aim of this project is to provide insights into the sentiment of customers towards Snappfood's services and to help Snappfood improve its customer satisfaction.
 
 ## Dataset
-The dataset used in this project consists of Snappfood customer comments for each order. 
-
+The dataset used in this project consists of Snappfood customer comments for each order.
 The dataset has been labeled with two classes: Happy, Sad.
 
 ## Model
