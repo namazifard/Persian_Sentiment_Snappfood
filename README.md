@@ -3,6 +3,7 @@ This project is about sentiment analysis of Snappfood customer comments using a 
 
 ## Dataset
 The dataset used in this project consists of Snappfood customer comments for each order.
+
 The dataset has been labeled with two classes: Happy, Sad.
 
 ## Model
